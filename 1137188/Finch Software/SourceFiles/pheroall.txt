@@ -1,0 +1,1 @@
+Straight,Back,Straight,Back,Right,Back,Straight,Back,Straight,Straight,Back,Straight,Back,Right,Left./2.456,0.056,0.008,0.008,0.728,1.312,0.056,0.056,0.008,0.496,0.064,0.008,0.056,0.728,1.536+/
